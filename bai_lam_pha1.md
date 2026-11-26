@@ -2,7 +2,7 @@
 
 - **Họ tên:**Phạm Thu Huyền
 - **Lớp:**HN-KS26-CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/phamthuhuyen161-tech/HN-KS26-CNTT2_PromptAI_H02_Pha1-Pha2
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
