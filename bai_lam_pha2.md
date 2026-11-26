@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 2 
 - **Mã đề:** 06
 - **Họ tên:** Phạm Thu Huyền
-- **Lớp:**HN-KS26-CNTT2
-- **Link repository Pha2:**
-- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**ChatGPT
+- **Lớp:** HN-KS26-CNTT2
+- **Link repository Pha2:** https://github.com/phamthuhuyen161-tech/HN-KS26-CNTT2_PromptAI_H02_Pha1-Pha2/blob/main/bai_lam_pha2.md
+- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** ChatGPT
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
 
